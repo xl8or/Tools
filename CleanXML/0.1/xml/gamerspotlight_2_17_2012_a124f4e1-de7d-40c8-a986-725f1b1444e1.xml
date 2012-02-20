@@ -1,0 +1,62 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="gamerspotlight_2_17_2012" id="a124f4e1-de7d-40c8-a986-725f1b1444e1" PresentationTemplate="MobileGamerSpotlight">
+    <Variant variantCulture="en">
+      <Field name="PageDetails/Title" type="String" value=""></Field>
+      <Field name="PageDetails/MetaDescription" type="String" value=""></Field>
+      <Field name="PageDetails/Indexing" type="String" value=""></Field>
+      <Field name="PageDetails/LIVEEnabled" type="String" value=""></Field>
+      <Field name="PageDetails/BreadcrumbName" type="String" value=""></Field>
+      <Field name="PageDetails/MetaKeywords" type="String" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/Frequency" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/Priority" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/ExcludeFromSiteMap" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteSearchScope" type="Enumeration" value=""></Field>
+      <Field name="BackgroundImage/Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/9d/f0/9df04b8a-b7aa-464e-9853-3c030f0b5441.JPG?v=1#gs_2_3_12_bebop-gastelum_480x800.JPG"></Field>
+      <Field name="BackgroundImage/AltText" type="String" value=""></Field>
+      <Field name="GamerTag" type="String">Printmatic</Field>
+      <Field name="Location" type="String">Washington, USA</Field>
+      <Field name="AvatarBody/Image" type="Image" value=""></Field>
+      <Field name="AvatarBody/AltText" type="String" value=""></Field>
+      <Field name="Bio" type="RichContent"><![CDATA[Rozvrh tohoto fanouška TMNT je plný získávání 100 % ve všech hrách XBLA a sledování zápasů MMA.]]></Field>
+      <Field name="FavoritesList/0/#Name" type="String" value="Multiplayer"></Field>
+      <Field name="FavoritesList/1/#Name" type="String" value="Single Player"></Field>
+      <Field name="FavoritesList/2/#Name" type="String" value="XBLA"></Field>
+      <Field name="FavoritesList/3/#Name" type="String" value="Movie"></Field>
+      <Field name="FavoritesList/4/#Name" type="String" value="Comic"></Field>
+      <Field name="FavoritesList/5/#Name" type="String" value="TV Show"></Field>
+      <Field name="FavoritesList/0/Item" type="String">Pro více hráčů</Field>
+      <Field name="FavoritesList/0/Value" type="String">Snoopy Flying Ace</Field>
+      <Field name="FavoritesList/0/Url/Url" type="Url" value=""></Field>
+      <Field name="FavoritesList/0/Url/Params" type="String" value=""></Field>
+      <Field name="FavoritesList/1/Item" type="String">Pro jednoho hráče</Field>
+      <Field name="FavoritesList/1/Value" type="String">Portal 2</Field>
+      <Field name="FavoritesList/1/Url/Url" type="Url" value=""></Field>
+      <Field name="FavoritesList/1/Url/Params" type="String" value=""></Field>
+      <Field name="FavoritesList/2/Item" type="String">XBLA</Field>
+      <Field name="FavoritesList/2/Value" type="String">Poker Smash</Field>
+      <Field name="FavoritesList/2/Url/Url" type="Url" value=""></Field>
+      <Field name="FavoritesList/2/Url/Params" type="String" value=""></Field>
+      <Field name="FavoritesList/3/Item" type="String">Film</Field>
+      <Field name="FavoritesList/3/Value" type="String">Tommy Boy</Field>
+      <Field name="FavoritesList/3/Url/Url" type="Url" value=""></Field>
+      <Field name="FavoritesList/3/Url/Params" type="String" value=""></Field>
+      <Field name="FavoritesList/4/Item" type="String">Komiks</Field>
+      <Field name="FavoritesList/4/Value" type="String">Želvy Ninja</Field>
+      <Field name="FavoritesList/4/Url/Url" type="Url" value=""></Field>
+      <Field name="FavoritesList/4/Url/Params" type="String" value=""></Field>
+      <Field name="FavoritesList/5/Item" type="String">Televizní pořad</Field>
+      <Field name="FavoritesList/5/Value" type="String">Přátelé</Field>
+      <Field name="FavoritesList/5/Url/Url" type="Url" value=""></Field>
+      <Field name="FavoritesList/5/Url/Params" type="String" value=""></Field>
+      <Field name="CTA/Text" type="String" value=""></Field>
+      <Field name="CTA/Url/Url" type="Url" value=""></Field>
+      <Field name="CTA/Url/Params" type="String" value=""></Field>
+      <Field name="FavoritesList/0/#Enabled" type="String" value="True"></Field>
+      <Field name="FavoritesList/1/#Enabled" type="String" value="True"></Field>
+      <Field name="FavoritesList/2/#Enabled" type="String" value="True"></Field>
+      <Field name="FavoritesList/3/#Enabled" type="String" value="True"></Field>
+      <Field name="FavoritesList/4/#Enabled" type="String" value="True"></Field>
+      <Field name="FavoritesList/5/#Enabled" type="String" value="True"></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>

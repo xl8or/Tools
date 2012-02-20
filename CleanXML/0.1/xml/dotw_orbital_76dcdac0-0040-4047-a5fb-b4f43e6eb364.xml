@@ -1,0 +1,41 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="dotw_orbital" id="76dcdac0-0040-4047-a5fb-b4f43e6eb364" PresentationTemplate="MobileSpotlightPage">
+    <Variant variantCulture="en">
+      <Field name="PageDetails/Title" type="String" value=""></Field>
+      <Field name="PageDetails/MetaDescription" type="String" value=""></Field>
+      <Field name="PageDetails/Indexing" type="String" value=""></Field>
+      <Field name="PageDetails/LIVEEnabled" type="String" value=""></Field>
+      <Field name="PageDetails/BreadcrumbName" type="String" value=""></Field>
+      <Field name="PageDetails/MetaKeywords" type="String" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/Frequency" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/Priority" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/ExcludeFromSiteMap" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteSearchScope" type="Enumeration" value=""></Field>
+      <Field name="HeaderContent/Image/Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/0b/fc/0bfc7d45-dcd8-4a05-95d7-6e4227b7e734.JPG?v=1#deal_of_the_week.JPG"></Field>
+      <Field name="HeaderContent/Image/AltText" type="String" value=""></Field>
+      <Field name="HeaderContent/Url/Url" type="Url" value=""></Field>
+      <Field name="HeaderContent/Url/Params" type="String" value=""></Field>
+      <Field name="HeaderContent/Title" type="String" value=""></Field>
+      <Field name="HeaderContent/Subtitle" type="String" value=""></Field>
+      <Field name="HeaderContent/Description" type="String" value=""></Field>
+      <Field name="HeaderContent/Position" type="Enumeration" value=""></Field>
+      <Field name="HeaderContent/Color" type="String" value=""></Field>
+      <Field name="ImageContent/Header" type="String">Ve vzduchu jsou slevy</Field>
+      <Field name="ImageContent/ContentBlockList/0/#Name" type="String" value="Orbital"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Title" type="String">Orbital</Field>
+      <Field name="ImageContent/ContentBlockList/0/Description" type="String">Zahrajte si</Field>
+      <Field name="ImageContent/ContentBlockList/0/Image/Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/78/4e/784e33e1-17fa-4516-8ffc-50825649e438.PNG?v=1#collapse_tile.PNG"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Image/AltText" type="String" value=""></Field>
+      <Field name="ImageContent/ContentBlockList/0/Url/Url" type="Url" value="xbls://game?gameid=474F1388"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Url/Params" type="String" value=""></Field>
+      <Field name="ImageContent/Format" type="Enumeration" value=""></Field>
+      <Field name="TextContent/Header" type="RichContent"><![CDATA[]]></Field>
+      <Field name="ItemContent/Header" type="RichContent"><![CDATA[Vstupte do světa hry Orbital, kde je vaším cílem jediné: zničit co nejvíce koulí!  Vystřelte kouli na hřiště a sledujte, jak roste, dokud nenarazí na překážku. Dalšími koulemi ji zničte. Pokud jste dostatečně šikovní, stanete se šampiónem Orbitalu!
+
+
+Hra Orbital je nabídkou týdne do 28. února! Získejte ji nyní za skvělou cenu!]]></Field>
+      <Field name="AdditionalContent" type="RichContent"><![CDATA[]]></Field>
+      <Field name="ImageContent/ContentBlockList/0/#Enabled" type="String" value="True"></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>

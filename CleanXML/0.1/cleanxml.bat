@@ -1,0 +1,1 @@
+for /R %%i in (*.xml) do ruby decode.rb "%%i"

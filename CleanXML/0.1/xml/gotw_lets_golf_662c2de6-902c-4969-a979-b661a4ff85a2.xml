@@ -1,0 +1,14 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="gotw_lets_golf" id="662c2de6-902c-4969-a979-b661a4ff85a2" PresentationTemplate="">
+    <Variant variantCulture="en">
+      <Field name="Headline" type="String">Doporučení redaktora</Field>
+      <Field name="Description" type="String">Let's Golf 2 vás dostane do hry!</Field>
+      <Field name="ActionUrl" type="Url" value="http://windowsphone.xbox.com/MOW/gotw_tetris"></Field>
+      <Field name="UrlType" type="Enumeration" value="Web"></Field>
+      <Field name="Parameters" type="String" value=""></Field>
+      <Field name="Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/72/f4/72f43f20-f911-4ad0-981e-ac2ea047bcf7.PNG?v=1#tetris_gotw.PNG"></Field>
+      <Field name="Tier" type="Enumeration" value=""></Field>
+      <Field name="Carrier" type="Enumeration" value=""></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>

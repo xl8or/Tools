@@ -1,0 +1,39 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="gotw_lets_golf" id="88e8cd0c-1d69-40c7-8de7-93232bc2543c" PresentationTemplate="MobileSpotlightPage">
+    <Variant variantCulture="en">
+      <Field name="PageDetails/Title" type="String" value=""></Field>
+      <Field name="PageDetails/MetaDescription" type="String" value=""></Field>
+      <Field name="PageDetails/Indexing" type="String" value=""></Field>
+      <Field name="PageDetails/LIVEEnabled" type="String" value=""></Field>
+      <Field name="PageDetails/BreadcrumbName" type="String" value=""></Field>
+      <Field name="PageDetails/MetaKeywords" type="String" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/Frequency" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/Priority" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/ExcludeFromSiteMap" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteSearchScope" type="Enumeration" value=""></Field>
+      <Field name="HeaderContent/Image/Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/d8/cd/d8cd8fab-488a-465b-b5d2-7ae53a861a00.JPG?v=1#480x136_Tetris.JPG"></Field>
+      <Field name="HeaderContent/Image/AltText" type="String" value=""></Field>
+      <Field name="HeaderContent/Url/Url" type="Url" value=""></Field>
+      <Field name="HeaderContent/Url/Params" type="String" value=""></Field>
+      <Field name="HeaderContent/Title" type="String" value=""></Field>
+      <Field name="HeaderContent/Subtitle" type="String" value=""></Field>
+      <Field name="HeaderContent/Description" type="String" value=""></Field>
+      <Field name="HeaderContent/Position" type="Enumeration" value=""></Field>
+      <Field name="HeaderContent/Color" type="String" value=""></Field>
+      <Field name="ImageContent/Header" type="String">S golfem kolem světa</Field>
+      <Field name="ImageContent/ContentBlockList/0/#Name" type="String" value="Let's Golf 2"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Title" type="String">Let's Golf 2</Field>
+      <Field name="ImageContent/ContentBlockList/0/Description" type="String">Zahrajte si</Field>
+      <Field name="ImageContent/ContentBlockList/0/Image/Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/8d/5e/8d5e6b9c-3687-459d-9a9f-9b0fc2bbc539.PNG?v=1#tetris_tile.PNG"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Image/AltText" type="String" value=""></Field>
+      <Field name="ImageContent/ContentBlockList/0/Url/Url" type="Url" value="xbls://game?gameid=4541092E"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Url/Params" type="String" value=""></Field>
+      <Field name="ImageContent/Format" type="Enumeration" value=""></Field>
+      <Field name="TextContent/Header" type="RichContent"><![CDATA[]]></Field>
+      <Field name="ItemContent/Header" type="RichContent"><![CDATA[Stejná zábava jako při golfu, avšak bez nutnosti hledat ztracené míčky! Vezměte si hole a navštivte hřiště po celém světě! Hrajte za různé postavy s různými vlastnostmi a vyhrajte na každé jamce. Chcete svůj golf trochu okořenit? Vyzkoušejte nejrůznější herní varianty a hrajte si dle libosti! Ve hře Let's Golf 2 si užijete každý odpal!
+]]></Field>
+      <Field name="AdditionalContent" type="RichContent"><![CDATA[]]></Field>
+      <Field name="ImageContent/ContentBlockList/0/#Enabled" type="String" value="True"></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>

@@ -1,0 +1,14 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="dotw_orbital" id="77108cdc-7dd8-4f01-b0ee-fc89807c1a66" PresentationTemplate="">
+    <Variant variantCulture="en">
+      <Field name="Headline" type="String">Nabídka týdne</Field>
+      <Field name="Description" type="String">Ušetřete hodně peněz na hře Orbital</Field>
+      <Field name="ActionUrl" type="Url" value="http://windowsphone.xbox.com/MOW/gamerspotlight_2_3_2012"></Field>
+      <Field name="UrlType" type="Enumeration" value="Web"></Field>
+      <Field name="Parameters" type="String" value=""></Field>
+      <Field name="Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/4a/14/4a145d54-0077-481d-8a4e-3429addd6533.JPG?v=1#gs_2_3_12_bebop-gastelum_358x173.JPG"></Field>
+      <Field name="Tier" type="Enumeration" value=""></Field>
+      <Field name="Carrier" type="Enumeration" value=""></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>

@@ -1,0 +1,40 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="mhg_toy_soldiers" id="daddab07-b22b-4019-9710-72a6ed9ee504" PresentationTemplate="MobileSpotlightPage">
+    <Variant variantCulture="en">
+      <Field name="PageDetails/Title" type="String" value=""></Field>
+      <Field name="PageDetails/MetaDescription" type="String" value=""></Field>
+      <Field name="PageDetails/Indexing" type="String" value=""></Field>
+      <Field name="PageDetails/LIVEEnabled" type="String" value=""></Field>
+      <Field name="PageDetails/BreadcrumbName" type="String" value=""></Field>
+      <Field name="PageDetails/MetaKeywords" type="String" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/Frequency" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/Priority" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/ExcludeFromSiteMap" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteSearchScope" type="Enumeration" value=""></Field>
+      <Field name="HeaderContent/Image/Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/c5/ba/c5baf776-fcb1-4450-aabb-23f54d236645.PNG?v=1#need_for_speed_hot_pursuit_mow.PNG"></Field>
+      <Field name="HeaderContent/Image/AltText" type="String" value=""></Field>
+      <Field name="HeaderContent/Url/Url" type="Url" value=""></Field>
+      <Field name="HeaderContent/Url/Params" type="String" value=""></Field>
+      <Field name="HeaderContent/Title" type="String" value=""></Field>
+      <Field name="HeaderContent/Subtitle" type="String" value=""></Field>
+      <Field name="HeaderContent/Description" type="String" value=""></Field>
+      <Field name="HeaderContent/Position" type="Enumeration" value=""></Field>
+      <Field name="HeaderContent/Color" type="String" value=""></Field>
+      <Field name="ImageContent/Header" type="String">Hodně houževnaté hračky!</Field>
+      <Field name="ImageContent/ContentBlockList/0/#Name" type="String" value="Toy Soldiers: Boot Camp"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Title" type="String">Toy Soldiers: Boot Camp</Field>
+      <Field name="ImageContent/ContentBlockList/0/Description" type="String">Zahrajte si</Field>
+      <Field name="ImageContent/ContentBlockList/0/Image/Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/4f/06/4f069a20-551b-4afc-a77e-0c05fc56f267.PNG?v=1#need_for_speed_hot_pursuit.PNG"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Image/AltText" type="String" value=""></Field>
+      <Field name="ImageContent/ContentBlockList/0/Url/Url" type="Url" value="xbls://game?gameid=4541138B"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Url/Params" type="String" value=""></Field>
+      <Field name="ImageContent/Format" type="Enumeration" value=""></Field>
+      <Field name="TextContent/Header" type="RichContent"><![CDATA[Braňte svůj dům a domov před mračny much v roli střelce malého protivzdušného děla. Mistrně navádějte raketu k cíli tunelem plným rotujících překážek.
+
+<p>Toy Soldiers: Boot Camp je součástí vzrušující herní kolekce Must Have Games - pět týdnů herních hitů, které si nemůžete nechat ujít!</p>]]></Field>
+      <Field name="ItemContent/Header" type="RichContent"><![CDATA[]]></Field>
+      <Field name="AdditionalContent" type="RichContent"><![CDATA[]]></Field>
+      <Field name="ImageContent/ContentBlockList/0/#Enabled" type="String" value="True"></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>

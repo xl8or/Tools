@@ -1,0 +1,39 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="gotw_ionballex" id="7901bc8a-c09a-4b05-a9eb-25d1ee92c417" PresentationTemplate="MobileSpotlightPage">
+    <Variant variantCulture="en">
+      <Field name="PageDetails/Title" type="String" value=""></Field>
+      <Field name="PageDetails/MetaDescription" type="String" value=""></Field>
+      <Field name="PageDetails/Indexing" type="String" value=""></Field>
+      <Field name="PageDetails/LIVEEnabled" type="String" value=""></Field>
+      <Field name="PageDetails/BreadcrumbName" type="String" value=""></Field>
+      <Field name="PageDetails/MetaKeywords" type="String" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/Frequency" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/Priority" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/ExcludeFromSiteMap" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteSearchScope" type="Enumeration" value=""></Field>
+      <Field name="HeaderContent/Image/Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/d8/cd/d8cd8fab-488a-465b-b5d2-7ae53a861a00.JPG?v=1#480x136_Tetris.JPG"></Field>
+      <Field name="HeaderContent/Image/AltText" type="String" value=""></Field>
+      <Field name="HeaderContent/Url/Url" type="Url" value=""></Field>
+      <Field name="HeaderContent/Url/Params" type="String" value=""></Field>
+      <Field name="HeaderContent/Title" type="String" value=""></Field>
+      <Field name="HeaderContent/Subtitle" type="String" value=""></Field>
+      <Field name="HeaderContent/Description" type="String" value=""></Field>
+      <Field name="HeaderContent/Position" type="Enumeration" value=""></Field>
+      <Field name="HeaderContent/Color" type="String" value=""></Field>
+      <Field name="ImageContent/Header" type="String">Je libo míček?</Field>
+      <Field name="ImageContent/ContentBlockList/0/#Name" type="String" value="IonBallEX"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Title" type="String">IonBallEX</Field>
+      <Field name="ImageContent/ContentBlockList/0/Description" type="String">Zahrajte si</Field>
+      <Field name="ImageContent/ContentBlockList/0/Image/Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/8d/5e/8d5e6b9c-3687-459d-9a9f-9b0fc2bbc539.PNG?v=1#tetris_tile.PNG"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Image/AltText" type="String" value=""></Field>
+      <Field name="ImageContent/ContentBlockList/0/Url/Url" type="Url" value="xbls://game?gameid=4541092E"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Url/Params" type="String" value=""></Field>
+      <Field name="ImageContent/Format" type="Enumeration" value=""></Field>
+      <Field name="TextContent/Header" type="RichContent"><![CDATA[]]></Field>
+      <Field name="ItemContent/Header" type="RichContent"><![CDATA[IonBallEX je moderní variací na klasickou arkádovou hru Breakout, funguje na principu získávání zkušeností a na konci každé úrovně vás čeká boss, který prověří nejzazší meze vašich schopností, to vše v unikátním steampunkovém stylu. 35 náročných úrovní, neuvěřitelné funkce a úžasní bossové - hru IonBallEX prostě musíte pokořit!
+]]></Field>
+      <Field name="AdditionalContent" type="RichContent"><![CDATA[]]></Field>
+      <Field name="ImageContent/ContentBlockList/0/#Enabled" type="String" value="True"></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>

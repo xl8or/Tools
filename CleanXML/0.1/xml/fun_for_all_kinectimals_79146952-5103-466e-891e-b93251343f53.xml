@@ -1,0 +1,38 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="fun_for_all_kinectimals" id="79146952-5103-466e-891e-b93251343f53" PresentationTemplate="MobileSpotlightPage">
+    <Variant variantCulture="en-US">
+      <Field name="PageDetails/Title" type="String" value=""></Field>
+      <Field name="PageDetails/MetaDescription" type="String" value=""></Field>
+      <Field name="PageDetails/Indexing" type="String" value=""></Field>
+      <Field name="PageDetails/LIVEEnabled" type="String" value=""></Field>
+      <Field name="PageDetails/BreadcrumbName" type="String" value=""></Field>
+      <Field name="PageDetails/MetaKeywords" type="String" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/Frequency" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/Priority" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteMapSettings/ExcludeFromSiteMap" type="Enumeration" value=""></Field>
+      <Field name="PageDetails/SiteSearchScope" type="Enumeration" value=""></Field>
+      <Field name="HeaderContent/Image/Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/0b/fc/0bfc7d45-dcd8-4a05-95d7-6e4227b7e734.JPG?v=1#deal_of_the_week.JPG"></Field>
+      <Field name="HeaderContent/Image/AltText" type="String" value=""></Field>
+      <Field name="HeaderContent/Url/Url" type="Url" value=""></Field>
+      <Field name="HeaderContent/Url/Params" type="String" value=""></Field>
+      <Field name="HeaderContent/Title" type="String" value=""></Field>
+      <Field name="HeaderContent/Subtitle" type="String" value=""></Field>
+      <Field name="HeaderContent/Description" type="String" value=""></Field>
+      <Field name="HeaderContent/Position" type="Enumeration" value=""></Field>
+      <Field name="HeaderContent/Color" type="String" value=""></Field>
+      <Field name="ImageContent/Header" type="String">Zábava pro celou rodinu!</Field>
+      <Field name="ImageContent/ContentBlockList/0/#Name" type="String" value="Kinectimals"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Title" type="String">Kinectimals</Field>
+      <Field name="ImageContent/ContentBlockList/0/Description" type="String">Zahrajte si</Field>
+      <Field name="ImageContent/ContentBlockList/0/Image/Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/73/4b/734b414f-cb9e-4bb5-991d-c1d0884c1927.PNG?v=1#jet_car_stunts_tile (1).PNG"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Image/AltText" type="String" value=""></Field>
+      <Field name="ImageContent/ContentBlockList/0/Url/Url" type="Url" value="xbls://game?gameid=4D530963"></Field>
+      <Field name="ImageContent/ContentBlockList/0/Url/Params" type="String" value=""></Field>
+      <Field name="ImageContent/Format" type="Enumeration" value=""></Field>
+      <Field name="TextContent/Header" type="RichContent"><![CDATA[]]></Field>
+      <Field name="ItemContent/Header" type="RichContent"><![CDATA[Tento týden jsme pro vás v edici Zábava pro všechny vybrali hru Kinectimals! Jsou chlupatá. Mají hebkou srst. Žijí ve vašem telefonu! Navštivte ostrov Lemuria a hrajte si s vašimi vlastními mláďátky zvířátek Kinectimals, starejte se o ně a mějte je rádi. Tyto dokonalé domácí mazlíčky si zamiluje celá vaše rodina! ]]></Field>
+      <Field name="AdditionalContent" type="RichContent"><![CDATA[]]></Field>
+      <Field name="ImageContent/ContentBlockList/0/#Enabled" type="String" value="True"></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>

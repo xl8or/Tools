@@ -1,0 +1,14 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="fun_for_all_kinectimals" id="0df119ae-2e5b-4962-b7d4-f0e7c046044a" PresentationTemplate="">
+    <Variant variantCulture="en">
+      <Field name="Headline" type="String">Zábava pro všechny - Kinectimals</Field>
+      <Field name="Description" type="String">Chlupatá zábava pro celou rodinu!</Field>
+      <Field name="ActionUrl" type="Url" value="http://windowsphone.xbox.com/MOW/gamerspotlight_2_3_2012"></Field>
+      <Field name="UrlType" type="Enumeration" value="Web"></Field>
+      <Field name="Parameters" type="String" value=""></Field>
+      <Field name="Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/4a/14/4a145d54-0077-481d-8a4e-3429addd6533.JPG?v=1#gs_2_3_12_bebop-gastelum_358x173.JPG"></Field>
+      <Field name="Tier" type="Enumeration" value=""></Field>
+      <Field name="Carrier" type="Enumeration" value=""></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>

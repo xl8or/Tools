@@ -1,0 +1,14 @@
+﻿<ExportForLocalization>
+  <ExportedContentItem name="gamerspotlight_2_17_2012" id="62a6dbaf-9be4-4d62-8530-ea4a220a6704" PresentationTemplate="">
+    <Variant variantCulture="en">
+      <Field name="Headline" type="String">Zaměřeno na hráče</Field>
+      <Field name="Description" type="String">Pozdravte hráče Printmatic!</Field>
+      <Field name="ActionUrl" type="Url" value="http://windowsphone.xbox.com/MOW/gamerspotlight_2_3_2012"></Field>
+      <Field name="UrlType" type="Enumeration" value="Web"></Field>
+      <Field name="Parameters" type="String" value=""></Field>
+      <Field name="Image" type="Image" value="http://nxeassets.xbox.com/shaxam/0201/4a/14/4a145d54-0077-481d-8a4e-3429addd6533.JPG?v=1#gs_2_3_12_bebop-gastelum_358x173.JPG"></Field>
+      <Field name="Tier" type="Enumeration" value=""></Field>
+      <Field name="Carrier" type="Enumeration" value=""></Field>
+    </Variant>
+  </ExportedContentItem>
+</ExportForLocalization>
