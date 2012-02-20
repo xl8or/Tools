@@ -3,4 +3,4 @@
 * [Winmerge](http://winmerge.org/)
 #### Localization Tools
 * [Okapi Framework](http://okapi.opentag.com/)
-*[Translate Toolkit & Pootle](http://translate.sourceforge.net/wiki/toolkit/index)
+* [Translate Toolkit & Pootle](http://translate.sourceforge.net/wiki/toolkit/index)
