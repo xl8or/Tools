@@ -1,0 +1,3 @@
+#### Usefull Tools
+* [Notepad++](http://notepad-plus-plus.org/)
+* [winmerge](winmerge.org/)
