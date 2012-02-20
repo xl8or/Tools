@@ -1,3 +1,6 @@
 #### Usefull Tools
 * [Notepad++](http://notepad-plus-plus.org/)
 * [Winmerge](http://winmerge.org/)
+#### Localization Tools
+* [Okapi Framework](http://okapi.opentag.com/)
+*[Translate Toolkit & Pootle](http://translate.sourceforge.net/wiki/toolkit/index)
