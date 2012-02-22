@@ -5,3 +5,7 @@
 #### Localization Tools
 * [Okapi Framework](http://okapi.opentag.com/)
 * [Translate Toolkit & Pootle](http://translate.sourceforge.net/wiki/toolkit/index)
+
+#### Microsoft Internal Localization tools
+* [LEAF] file://\\kimkim10\public\Leaf\1215-xliff
+* [Blackbox] http://ipotagweb01/BB/BlackBox.asmx
